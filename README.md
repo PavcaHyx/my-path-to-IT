@@ -10,7 +10,7 @@ I made this timeline to show myself and you how far I've got on my jorney with p
  * what: One day workshop with Bootsrap
  * when: 20. 10. 2019 09:30 - 17:30
  * organization: Czechitas
- * repository: 
+ * repository: [Kadeřnictví Scissors](https://github.com/PavcaHyx/hairdressing-scissors)
  * descriptin: I have decided to take part in this course because I wanted to create new web pages for fest that I help organize. In this course I have created test-web about hairdresses and learnt basic about bootstrap 
  * needed time: ~ 8 h
 
