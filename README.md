@@ -63,8 +63,14 @@ I made this timeline to show myself and you how far I've got on my jorney with p
 ---
 **Small projects**
 * HR System
-  * dkgjkdfjg
-  * dfk;lj;s
-* util 
-  * console tool for checking logs
-  *  
+  * repository:
+  * description: Small CLI applications that behaves as a company HR system
+* Log parsing utility
+   * repository:
+   * description: Python CLI application that will help you parse logs of various
+kinds.
+* Google Search page
+   * repository:
+   * description: Python CLI application that will help you parse logs of various
+kinds.
+
