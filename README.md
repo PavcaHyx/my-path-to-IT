@@ -12,7 +12,7 @@ I made this timeline to show myself and you how far I've got on my jorney with p
  * description: I was exhausted from my current job. Therefore I have decided to take part in this course to gain some basic in programming and increase my chance to get better new job.
  * needed time: 12* 3 h on side + 12*  ~ 8h working at home on tasks => 36+96 = ~ 132 h
 
-**My First Practical Project!**
+**My First Practical Project! :)**
  * what: small tools based on scraping data from web
  * when: autumn 2018
  * organization: -
@@ -45,7 +45,7 @@ I made this timeline to show myself and you how far I've got on my jorney with p
 * needed time: ~8h
 
 
-**Working on web for Hlinecký folkový špekáček**
+**Working on web for Hlinecký folkový špekáček :)**
  * what: coding new web pages for festival
  * when: several evenings in 2020 and 2021
  * organization: -
@@ -54,8 +54,17 @@ I made this timeline to show myself and you how far I've got on my jorney with p
  * needed time: ~ 60 h
 
 ---
-**Programming tasks in my current job**
+**Programming tasks in my current job :)**
 * Slack application that sends message to Customer Success Manager(CSM) when a new user assigned into company in his/her portfolio. (Needed to use: Metabase and Slack API) 
 * Program that each day checks closed Intercom's conversations and collects required information from each conversation. Data are then saved into Google Sheet. (Intercom API, Google API)
 * Program that checks current spent from client's ads and sends notification to CSM in case when the spent is at 80% of specific limit. (Metabase, Slack API)
 * Helper page - web application that displays data of Google Ads acount. (Flask, Bootsrap, Google Ads API)
+
+---
+**Small projects**
+* HR System
+  * dkgjkdfjg
+  * dfk;lj;s
+* util 
+  * console tool for checking logs
+  *  
