@@ -55,6 +55,7 @@ I made this timeline to show myself and you how far I've got on my jorney with p
 
 ---
 **Programming tasks in my current job**
-* Slack application that sends message to Customer Success Manager when a new user assigned into company in his/her portfolio. (Needed to use: Metabase and Slack API) 
+* Slack application that sends message to Customer Success Manager(CSM) when a new user assigned into company in his/her portfolio. (Needed to use: Metabase and Slack API) 
 * Program that each day checks closed Intercom's conversations and collects required information from each conversation. Data are then saved into Google Sheet. (Intercom API, Google API)
+* Program that checks current spent from client's ads and sends notification to CSM in case when the spent is at 80% of specific limit. (Metabase, Slack API)
 * Helper page - web application that displays data of Google Ads acount. (Flask, Bootsrap, Google Ads API)
