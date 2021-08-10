@@ -39,7 +39,7 @@ I made this timeline to show myself and you how far I've got on my jorney with p
 **Fundamentals of Red Hat Enterprise Linux**
 * what: Online video course from Red Hat on fundamentals of RHL
 * when: October 2020
-* organization:[Red Hat - Verified Certificate](https://courses.edx.org/certificates/4ceddc37878b4f27979097d15fbd71a9)
+* organization: [Red Hat - Verified Certificate](https://courses.edx.org/certificates/4ceddc37878b4f27979097d15fbd71a9)
 * repository:
 * description: Course that that provided with a basic introduction to Linux.
 * needed time: ~8h
