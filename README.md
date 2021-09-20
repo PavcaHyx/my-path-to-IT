@@ -29,7 +29,6 @@ kinds.
 **Working on web for Hlinecký folkový špekáček :)**
  * what: coding new web pages for festival
  * when: several evenings in 2020 and 2021
- * organization: -
  * repository: [hlinecky-folkovy-spekacek](https://github.com/PavcaHyx/hlinecky-folkovy-spekacek.git)
  * description: One of my hobby is help to organize festival Hlinecký folkový špekáček. Our web pages needed to be modernized and because we dont have any other IT person in our organization team I accepted the challenge and created the web: [Hlinecký folkový špekáček](https://www.hlineckyfolkovyspekacek.cz/)
  * needed time: ~ 60 h
@@ -38,7 +37,6 @@ kinds.
 * what: Online video course from Red Hat on fundamentals of RHL
 * when: October 2020
 * organization: [Red Hat - Verified Certificate](https://courses.edx.org/certificates/4ceddc37878b4f27979097d15fbd71a9)
-* repository:
 * description: Course that that provided with a basic introduction to Linux.
 * needed time: ~8h
 
@@ -61,7 +59,6 @@ kinds.
 **My First Practical Project! :)**
  * what: small tools based on scraping data from web
  * when: autumn 2018
- * organization: -
  * repository: [scraping-tools](https://github.com/PavcaHyx/scraping-tools)
  * description: After finishing Python Academy I realized that I could automate part of job for my current team in IBM. Therefore I wrote small programs that was able to download data from web.
  * needed time:  ~ 20 h
