@@ -7,7 +7,7 @@ I made this timeline to show myself and you how far I've got on my jorney with p
 ---
 **Small projects**
 * HR System
-  * repository:
+  * repository: [rh-system](https://github.com/PavcaHyx/rh-system
   * description: Small CLI applications that behaves as a company HR system
 * Log parsing utility
    * repository:
@@ -67,7 +67,7 @@ kinds.
  * what: paid - 3 months lengh course 
  * when: 19.4. - 5.7. 2018
  * organization: [Engeto](https://engeto.cz/?gclid=CjwKCAjwgb6IBhAREiwAgMYKRteULOFgD96biHL2BjgQqrLHN_oLkJqLLf-xHk-rvtNbACKHqpBssRoCwMoQAvD_BwE)
- * repository: [python-academy](https://github.com/PavcaHyx/python-academy)
+<!--  * repository: [python-academy](https://github.com/PavcaHyx/python-academy) -->
  * description: I was exhausted from my current job. Therefore I have decided to take part in this course to gain some basic in programming and increase my chance to get better new job.
  * needed time: 12* 3 h on side + 12*  ~ 8h working at home on tasks => 36+96 = ~ 132 h
 
