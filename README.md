@@ -10,7 +10,7 @@ I made this timeline to show myself and you how far I've got on my jorney with p
   * repository: [rh-system](https://github.com/PavcaHyx/hr-system)
   * description: Small CLI applications that behaves as a company HR system
 * Log parsing utility
-   * repository:
+   * repository: [log-parsing-utility](https://github.com/PavcaHyx/log-parsing-utility)
    * description: Python CLI application that will help you parse logs of various
 kinds.
 * Google Search page
